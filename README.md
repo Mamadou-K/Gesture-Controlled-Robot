@@ -3,7 +3,7 @@
 An innovative Arduino-powered differential drive robot that responds to your gestures, offering intuitive control through three potentiometers.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT License-green)
+![License](https://img.shields.io/badge/license-MIT)
 ![Stars](https://img.shields.io/github/stars/Mamadou-K/Gesture-Controlled-Robot?style=social)
 ![Forks](https://img.shields.io/github/forks/Mamadou-K/Gesture-Controlled-Robot?style=social)
 
