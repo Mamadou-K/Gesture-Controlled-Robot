@@ -37,7 +37,7 @@ To get your Gesture-Controlled-Robot up and running, follow these steps. This pr
 
 *   **Arduino IDE:** Download and install the latest version from the [official Arduino website](https://www.arduino.cc/en/software).
 *   **Arduino Board:** An Arduino Uno, Nano, or compatible board.
-*   **Motor Driver:** An L298N or similar motor driver module.
+*   **Motor Driver:** An L298D or similar motor driver module.
 *   **DC Motors:** Two DC motors with wheels.
 *   **Potentiometers:** Three potentiometers for gesture input.
 *   **Power Supply:** A suitable power supply for the motors and Arduino.
